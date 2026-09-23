@@ -70,7 +70,7 @@ This demonstrated how prompt engineering and parameter selection can be combined
 
 For detailed methodology, observations and results:
 
-[View the Experiment Report](Generative-AI-Parameter-Tuning-Report.docx)
+[View the Experiment Report](Generative-AI-Parameter-Tuning-Report.pdf)
 
 ---
 
