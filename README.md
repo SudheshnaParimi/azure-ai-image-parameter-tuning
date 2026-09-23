@@ -70,7 +70,7 @@ This demonstrated how prompt engineering and parameter selection can be combined
 
 For detailed methodology, observations and results:
 
-[View the Experiment Report](Generative-AI-Parameter-Tuning-Report.pdf)
+[[View the Experiment Report](Generative-AI-Parameter-Tuning-Report.pdf)](https://github.com/SudheshnaParimi/azure-ai-image-parameter-tuning/blob/main/Generative-AI-Parameter_Tuning_Report.docx)
 
 ---
 
